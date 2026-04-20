@@ -1,3 +1,3 @@
 displayName = A Spark of Aeonix
 author = Acronix98
-version = 0.1.0.1
+version = 0.1
